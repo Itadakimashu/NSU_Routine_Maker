@@ -20,6 +20,7 @@ Enter course initial and section. Then click on add.<br>
 **--creating image**
 After adding the courses click on the create button which will create the routine on the same directory as semester_routine.png file.<br>
 ![create](https://github.com/Itadakimashu/NSU_Routine_Maker/assets/66174292/2cbb5856-c9bb-41e1-b551-0d91651f7d3b)![image](https://github.com/Itadakimashu/NSU_Routine_Maker/assets/66174292/79f96ac3-46d1-4d79-a1f3-31505ddeb2a0)
+![2nd Semester routine](https://github.com/Itadakimashu/NSU_Routine_Maker/assets/66174292/0897ab03-dc56-4ab3-a971-d70c228ac2f6)
 
 
 **--clear database and log**<br>
