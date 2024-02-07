@@ -1,4 +1,5 @@
 **/__pycahe__/
 *.py[cod]
 /build/
-.png
+*.png
+NSU_Routine_Maker.spec
